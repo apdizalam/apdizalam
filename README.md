@@ -55,3 +55,9 @@ I'm always interested in connecting with fellow developers, collaborating on sof
 ---
 
 *Always learning, building, and improving.*
+
+
+## 🛠️ Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,git,github,vscode&perline=8)](https://skillicons.dev)
+
