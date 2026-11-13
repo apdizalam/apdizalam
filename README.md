@@ -32,7 +32,7 @@ I'm a **Software Engineering graduate from Amoud University** and a **Full-Stack
 
 ## 🚀 Featured Projects
 
-**1. [Shaba Water Billing Management System](https://github.com/apdizalam/shaba-water-system-)**
+**1. [Shaba Water Billing system ](https://github.com/apdizalam/shaba-water-system-)**
 A web-based system for water billing operations, customer management and payment records.
 <sub>Focus: web development, database-driven features, business process management</sub>
 
