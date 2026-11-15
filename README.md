@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/abdisalam-m-muhumed-4b6351307"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=apdizalam&style=flat-square&color=2F81F7&label=Profile+views" alt="Profile views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=apdizalam&style=flat-square&color=2F81F7&label=Profile+views" alt="Profile views" /> -->
 
 </div>
 
@@ -68,13 +68,12 @@ A JavaScript web application with chat reporting and admin settings management.
 <img height="180" src="https://github-stats-extended.vercel.app/api?username=apdizalam&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage,reviews" alt="GitHub stats" />
 <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=apdizalam&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top languages" />
 
-### 🔥 Contribution Streak
+<!-- -### 🔥 Contribution Streak -->
 
-<img src="https://streak-stats.demolab.com?user=apdizalam&hide_border=true&theme=github-dark-blue" alt="GitHub streak" />
+<!-- <img src="https://streak-stats.demolab.com?user=apdizalam&hide_border=true&theme=github-dark-blue" alt="GitHub streak" /> -->
 
-### 🟦 Contribution Graph
-
-<img width="100%" src="https://ghchart.rshah.org/2F81F7/apdizalam" alt="Contribution chart" />
+<!-- ### 🟦 Contribution Graph -->
+<!-- <img width="100%" src="https://ghchart.rshah.org/2F81F7/apdizalam" alt="Contribution chart" />  -->
 
 </div>
 
