@@ -18,35 +18,19 @@
 
 ---
 
-## 🧑‍💻 About Me
 
-I'm a **Software Engineering graduate from Amoud University** and a **Full-Stack Developer** with an interest in designing and building practical software solutions.
+### 👨‍💻 About Me
 
-- 💡 I enjoy turning ideas into working applications and solving problems through code
-- 🛠️ Experience with web apps, mobile apps, database-driven systems and AI-assisted customer support
-- 📐 Focused on maintainable code and the full software development lifecycle
-- 🌱 Looking for software engineering internships and entry-level opportunities
-- 📫 Reach me at **[apdizalammohameth@gmail.com](mailto:apdizalammohameth@gmail.com)** or on [LinkedIn](https://www.linkedin.com/in/abdisalam-m-muhumed-4b6351307)
+I'm a **Senior Software Engineer** and a proud Software Engineering graduate from **Amoud University**, specializing in architecting scalable digital solutions and solving complex engineering challenges through clean, efficient code.
+
+* 🌐 **Websites & Web Applications:** Designing and engineering high-performance, responsive websites and full-stack web platforms from the ground up.
+* 📱 **Mobile App Development:** Building seamless, cross-platform mobile applications tailored for real-world usability and speed.
+* 🤖 **AI Solutions & Automation:** Developing intelligent, AI-powered systems and smart integrations that automate workflows and elevate user experiences.
+* 🧠 **End-to-End Problem Solver:** Turning complex business ideas into reliable, production-ready software systems.
+* 📂 **Explore My Work:** Browse my **[Repositories](https://github.com/apdizalam?tab=repositories)** tab to inspect my codebase and architectures.
+* 📫 **Get in Touch:** Reach out via **[apdizalammohameth@gmail.com](mailto:apdizalammohameth@gmail.com)** or connect with me on LinkedIn.
 
 ---
-
-## 🚀 Featured Projects
-
-**1. [shaba-billing-system ](https://github.com/apdizalam/shaba-water-system-)**
-A web-based system for water billing operations, customer management and payment records.
-<sub>Focus: web development, database-driven features, business process management</sub>
-
-**2. Shaba Customer Mobile Application**
-A mobile app that lets Shaba customers view their billing information and related services.
-<sub>Focus: mobile development and integration with the web management system</sub>
-
-**3. AI Assistant & Customer Support System**
-A team project building an AI-powered assistant for customer interactions. I worked on the **backend**.
-<sub>Focus: server-side development and team collaboration</sub>
-
-**4. [Tayonx](https://github.com/apdizalam/Tayonx)**
-A JavaScript web application with chat reporting and admin settings management.
-
 ---
 
 ## 🛠️ Tech Stack
