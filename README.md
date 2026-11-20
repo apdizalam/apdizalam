@@ -47,9 +47,9 @@ I'm a **Senior Software Engineer** and a proud Software Engineering graduate fro
 
 <img src="https://github-trophies.vercel.app/?username=apdizalam&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub trophies" />
 
-### 📈 Stats & Top Languages
+<!-- ###📈 Stats & Top Languages-->
 
-<img height="180" src="https://github-stats-extended.vercel.app/api?username=apdizalam&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage,reviews" alt="GitHub stats" />
+<!-- <img height="180" src="https://github-stats-extended.vercel.app/api?username=apdizalam&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage,reviews" alt="GitHub stats" /> -->
 <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=apdizalam&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top languages" />
 
 <!-- -### 🔥 Contribution Streak -->
